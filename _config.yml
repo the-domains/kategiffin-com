@@ -1,0 +1,14 @@
+layout_spectrum: 0.1272825
+color:
+  saturation: 0.8784907
+  lightness: 0.3501478
+  brandStrength: 0.7835661
+  brandColors:
+    - '#646666'
+    - '#C5C5BE'
+    - '#B49277'
+    - '#4C4A41'
+    - '#FFFFFF'
+  rhythmicContrast: 0.4209682
+typography_spectrum: 0.6965628
+name: KateGiffin.com
